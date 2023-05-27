@@ -6,7 +6,7 @@ import {
   StyledName,
   StyledInfo,
   StyledStats,
-} from './StyledProfile';
+} from './styledProfileee';
 //-------------------------------------------
 
 const Profile = ({ username, tag, location, avatar, stats }) => {

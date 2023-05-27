@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 //Styles----------------------------------------
-import { StyledTable } from './StyledTransactionsHistory';
+import { StyledTable } from './styledTransactionsHistoryyy';
 //----------------------------------------------
 
 const TransactionsHistory = ({ items }) => {
