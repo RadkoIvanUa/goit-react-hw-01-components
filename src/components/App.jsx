@@ -3,12 +3,12 @@ import data from './statistics/data.json';
 import friends from './friends-list/friends.json';
 import transactions from './transactions/transactions.json';
 
-import Profile from './profile/profileee.jsx';
-import Statistics from './statistics/statisticsss';
-import FriendList from './friends-list/friendsListtt';
-import TransactionsHistory from './transactions/transactionsHistoryyy';
+import Profile from './profile/Profile.jsx';
+import Statistics from './statistics/Statistics';
+import FriendList from './friends-list/FriendsList';
+import TransactionsHistory from './transactions/TransactionsHistory';
 
-import { Container } from 'components/styledAppContainerrr';
+import { Container } from 'components/StyledAppContainer';
 
 export const App = () => {
   return (

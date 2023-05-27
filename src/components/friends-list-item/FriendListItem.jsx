@@ -1,7 +1,7 @@
 import PropTypes from 'prop-types';
 
 //Styles-------------------------------------
-import { StyledStatus } from './styledFriendsItemStatusss';
+import { StyledStatus } from './StyledFriendsItemStatus';
 //-------------------------------------------
 
 const FriendListItem = ({ avatar, name, isOnline }) => (

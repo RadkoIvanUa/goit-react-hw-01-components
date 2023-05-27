@@ -2,7 +2,7 @@ import PropTypes from 'prop-types';
 import getRandomHexColor from 'helpers/colorRandomizer';
 
 // Sytyles-------------------------------------
-import { StyledSection, StyledList } from './styledStatisticsss';
+import { StyledSection, StyledList } from './StyledStatistics';
 
 // --------------------------------------------
 
